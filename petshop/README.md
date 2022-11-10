@@ -24,4 +24,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
  ### Figma do projeto 
  https://www.figma.com/file/VxQeUpw5Ilvl9hEmycIrGt/PetShop-Mary-%26-Gaby?node-id=0%3A1
  
+ ### Pagina principal GitHub
+ https://github.com/LucasVieira757
 
